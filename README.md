@@ -3,8 +3,8 @@ This repository contains my code and files for CSE559 homework 2
 
 
 For question 1: 
-The main code is in hw2q1.py[链接].
-The output files for 4 samples are in [/data/hw2q1/rand_testcases_outputs](cse559code/data/hw2q1/rand_testcases_outputs).  
+The main code is in [hw2q1.py](cse559code/hw2q1.py).
+The output files for 4 samples are in [rand_testcases_outputs](cse559code/data/hw2q1/rand_testcases_outputs).  
 There are 5 arguments in this code.
 '--debug_input_file_folder': This is the folder containing the data you want to use as the input in the debug stage. For example: './data/hw2q1/RandomizedMotifSearch/inputs/'
 '--debug_output_file_folder': This is the folder containing the data you want to use as the checkpoint in the debug stage. For example: './data/hw2q1/RandomizedMotifSearch/outputs/'
@@ -15,8 +15,8 @@ The code is under Python 3.11. Please make sure your environment contains 'argpa
 
 
 For question 2: 
-The main code is in hw2q2.py[链接].
-The output files for 2 samples are in /data/hw2q2/gibbs_testcases_outputs[链接].  
+The main code is in [hw2q2.py](cse559code/hw2q2.py).
+The output files for 2 samples are in [gibbs_testcases_outputs](cse559code/data/hw2q2/gibbs_testcases_outputs).  
 There are 5 arguments in this code.
 '--debug_input_file_folder': This is the folder containing the data you want to use as the input in the debug stage. For example: './data/hw2q2/GibbsSampling/inputs/'
 '--debug_output_file_folder': This is the folder containing the data you want to use as the checkpoint in the debug stage. For example: './data/hw2q2/GibbsSampling/outputs/'
@@ -36,7 +36,7 @@ result_score:  9
 
 
 For question 3: 
-The main code is in hw2q3.py[链接].
-The code is under Python 3.11. Please make sure there are hw2q1.py[链接] and hw2q2.py[链接].
-The results for different parameters are in file '/data/hw2q3/motif_outpot.txt'[链接]
-I put my summary as a PDF file on GitHub. The file is hw1q3_summary_wxy.pdf[链接].
+The main code is in [hw2q3.py](cse559code/hw2q3.py).
+The code is under Python 3.11. Please make sure there are [hw2q1.py](cse559code/hw2q1.py) and [hw2q2.py](cse559code/hw2q2.py).
+The results for different parameters are in file [motif_outpot.txt](cse559code/data/hw2q3/motif_outpot.txt).
+I put my summary as a PDF file on GitHub. The file is [hw1q3_summary_wxy.pdf](hw1q3_summary_wxy.pdf).
