@@ -39,4 +39,4 @@ For example: for Input_1 of question 2
 The main code is in [hw2q3.py](cse559code/hw2q3.py).  
 The code is under Python 3.11. Please make sure there are [hw2q1.py](cse559code/hw2q1.py) and [hw2q2.py](cse559code/hw2q2.py).  
 The results for different parameters are in file [motif_outpot.txt](cse559code/data/hw2q3/motif_outpot.txt).  
-I put my summary as a PDF file on GitHub. The file is [hw1q3_summary_wxy.pdf](hw1q3_summary_wxy.pdf).  
+I put my summary as a PDF file on GitHub. The file is [hw2q3_summary_wxy.pdf](hw2q3_summary_wxy.pdf).  
