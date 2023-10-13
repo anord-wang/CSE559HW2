@@ -1,0 +1,39 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+this is the result of the No.1 parameter set: 
+--------------------------------------------------------------
+now we use random motif search method for 1000 times
+here is the result of random motif search method: 
+the consensus is: AGTTTCATCAAGGTC
+the score is: 61
+--------------------------------------------------------------
+now we use gibbs sampling motif search method for 1000 times
+here is the result of gibbs sampling motif search method: 
+the consensus is: AAACAACGAGGTACG
+the score is: 38
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+this is the result of the No.2 parameter set: 
+--------------------------------------------------------------
+now we use random motif search method for 10000 times
+here is the result of random motif search method: 
+the consensus is: GATCTTAATGCCGCC
+the score is: 52
+--------------------------------------------------------------
+now we use gibbs sampling motif search method for 2000 times
+here is the result of gibbs sampling motif search method: 
+the consensus is: CACACAGCAACGACG
+the score is: 38
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+this is the result of the No.3 parameter set: 
+--------------------------------------------------------------
+now we use random motif search method for 100000 times
+here is the result of random motif search method: 
+the consensus is: TATAGATGCGATAGC
+the score is: 57
+--------------------------------------------------------------
+now we use gibbs sampling motif search method for 10000 times
+here is the result of gibbs sampling motif search method: 
+the consensus is: GGGTCTTAAGCAGCC
+the score is: 38
+
