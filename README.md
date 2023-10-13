@@ -4,7 +4,7 @@ This repository contains my code and files for CSE559 homework 2
 
 For question 1: 
 The main code is in hw2q1.py[链接].
-The output files for 4 samples are in [/data/hw2q1/rand_testcases_outputs](/data/hw2q1/rand_testcases_outputs).  
+The output files for 4 samples are in [/data/hw2q1/rand_testcases_outputs](cse559code/data/hw2q1/rand_testcases_outputs).  
 There are 5 arguments in this code.
 '--debug_input_file_folder': This is the folder containing the data you want to use as the input in the debug stage. For example: './data/hw2q1/RandomizedMotifSearch/inputs/'
 '--debug_output_file_folder': This is the folder containing the data you want to use as the checkpoint in the debug stage. For example: './data/hw2q1/RandomizedMotifSearch/outputs/'
