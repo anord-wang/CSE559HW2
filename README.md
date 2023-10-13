@@ -11,7 +11,7 @@ There are 5 arguments in this code:
 * '--test_input_file_folder': This is the folder containing the data you want to use as the input in the test stage. For example: './data/hw2q1/rand_testcases/'  
 * '--test_output_file_folder': This is the folder where you want to put the result file in the test stage. For example: './data/hw2q1/rand_testcases_outputs/'  
 * '--debug': This is a boolean variable, which controls the stage you want to use. If it is True, it means the current stage is the debug stage, otherwise, it is the test stage.  
-* The code is under Python 3.11. Please make sure your environment contains 'argparse', 'os', and 'random'.  
+The code is under Python 3.11. Please make sure your environment contains 'argparse', 'os', and 'random'.  
   
   
 **For question 2:**  
