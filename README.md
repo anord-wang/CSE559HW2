@@ -13,7 +13,7 @@ There are 5 arguments in this code:
 * '--debug': This is a boolean variable, which controls the stage you want to use. If it is True, it means the current stage is the debug stage, otherwise, it is the test stage.  
 * The code is under Python 3.11. Please make sure your environment contains 'argparse', 'os', and 'random'.  
   
-
+  
 For question 2:  
 The main code is in [hw2q2.py](cse559code/hw2q2.py).  
 The output files for 2 samples are in [gibbs_testcases_outputs](cse559code/data/hw2q2/gibbs_testcases_outputs).  
@@ -25,16 +25,16 @@ There are 5 arguments in this code:
 * '--debug': This is a boolean variable, which controls the stage you want to use. If it is True, it means the current stage is the debug stage, otherwise, it is the test stage.  
 The code is under Python 3.11. Please make sure your environment contains 'argparse', 'os', 'random', and 'copy'.  
   
-
+  
 For question 1 and question 2:  
 Sometimes I can get the same result as the given .txt file, but they can’t happen together. And sometimes they have the same score but the motifs are different.  
 For example: for Input_1 of question 2  
-  motif_list:  ['CTCGGGGG', 'TGTAAGTG', 'TACAGGCG', 'TTCAGGTG', 'TCCACGTG']  
-  score:  9  
-  result_list:  ['TCTCGGGG', 'CCAAGGTG', 'TACAGGCG', 'TTCAGGTG', 'TCCACGTG']  
-  result_score:  9  
+  - motif_list:  ['CTCGGGGG', 'TGTAAGTG', 'TACAGGCG', 'TTCAGGTG', 'TCCACGTG']  
+  - score:  9  
+  - result_list:  ['TCTCGGGG', 'CCAAGGTG', 'TACAGGCG', 'TTCAGGTG', 'TCCACGTG']  
+  - result_score:  9  
   
-
+  
 For question 3:  
 The main code is in [hw2q3.py](cse559code/hw2q3.py).  
 The code is under Python 3.11. Please make sure there are [hw2q1.py](cse559code/hw2q1.py) and [hw2q2.py](cse559code/hw2q2.py).  
